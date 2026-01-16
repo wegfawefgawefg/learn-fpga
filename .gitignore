@@ -1,0 +1,15 @@
+# Verilator build outputs
+obj_dir/
+*.vcd
+*.fst
+
+# Yosys/nextpnr/icepack outputs
+*.json
+*.asc
+*.bin
+*.rpt
+*.dot
+
+# Editor/OS
+*~
+.DS_Store
