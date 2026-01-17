@@ -3,3 +3,4 @@ going thru getting started with fpga
 
 ## lessons
 - `01_hello`: blinky LED + simple Verilator sim
+- `02_comb`: combinational logic + truth table
