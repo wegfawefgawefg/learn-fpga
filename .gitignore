@@ -10,6 +10,17 @@ obj_dir/
 *.rpt
 *.dot
 
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.python-version
+.mypy_cache/
+.ruff_cache/
+
 # Editor/OS
 *~
 .DS_Store
